@@ -1,0 +1,101 @@
+  /*字型大小*/
+  h2{
+    text-align: center;
+    font-family: STKaiti ;
+    font-size: 40px;
+    font-weight: bold;
+  }
+
+  h3{
+    text-align: center;
+    font-family: STKaiti ;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  p{
+    text-align: center;
+    font-family: STKaiti ;
+    font-size: 20px;
+  }
+
+  button{
+    background-color:orange;
+    border-color: orange;
+    border-radius: 3px;
+    color: #ffffff;
+    font-size: 15px;
+  }
+  
+.item_header{
+  display: flex;
+  width: 1000px;
+  margin: 0 auto;
+  height: 30px;
+  background-color: #fff;
+  border-radius: 3px;
+  padding-left: 10px;
+}
+.good{
+    position: relative;
+    font-family: STKaiti ;
+    font-size: 30px;
+    font-weight: bold;
+}
+.txt{
+  text-align: center;
+  position: relative;
+  left: 15%;
+}
+.item_header .item_detail{
+  width: 50%;
+}
+.item_header .item_detail2{
+  width: 50%;
+  float: left;
+}
+.item_header .item_detail3{
+  width: 50%;
+  float: right;
+}
+.item_body{
+  margin-top: 20px;
+  height: 520px;
+  align-items: center;    
+}
+.item_detail img{
+  width: 500px;
+  height: 500px;
+  border-radius: 3px;
+  float: left;
+}
+
+.item_body2{
+  margin-top: 20px;
+  height: 350px;
+  align-items: center;    
+}
+
+.price{
+  position: relative;
+  font-family: STKaiti ;
+  font-size: 30px;
+  font-weight: bold;
+  color: red;
+}
+
+.cus{
+  font-family: STKaiti ;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.com{
+  font-family: DFKai-sb ;
+  font-size: 20px;
+}
+
+form{
+  position: relative;
+  left: 20px;
+}

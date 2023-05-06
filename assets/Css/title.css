@@ -1,0 +1,61 @@
+header{
+    background-color:#FF7B7B;
+}
+
+nav{
+    background-color: #FF7B7B;
+}
+
+.right{
+    float: right;
+    font-size: 30px;
+    font-family: DFKai-sb;
+    color: black;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-left: orange solid 3px;
+}
+
+body{
+    background-color: #FFD2D2;
+}
+
+footer{
+    background-color:#FF7B7B;
+    height: 50px;
+    padding-top: 15px;
+    font-family: DFKai-SB;
+    color: white;
+}
+
+.tit{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.logincart{
+    padding-left: 10px;
+}
+
+footer{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+
+  a:link{
+    color: #ffffff;
+  }
+  
+  a:visited{
+    color: #ffffff;
+  }
+
+  a:hover{
+    cursor: pointer;
+  }
+
+.head{
+    position: relative;
+    left: 10px;
+}

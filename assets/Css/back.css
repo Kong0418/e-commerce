@@ -1,0 +1,56 @@
+body {
+    background-color: #FFD2D2;
+}
+fieldset {
+    background-color: white;
+    border-radius: 20px;
+    border: solid 4px #FF7B7B;
+    font-family:  DFKai-sb;
+    font-size: 25px;
+    width: 500px;
+    margin: auto;
+    margin-top: 10px;
+    padding-top: 10px;
+    
+}
+fieldset legend {
+    background-color: white;
+    border: solid 4px #FF7B7B;
+    border-radius: 10px;
+}
+input[type="text"] {
+    background-color: white;
+    border: solid #FF7B7B;
+    border-radius: 10px;
+    height: 27px;
+    margin-left: 10px;
+    font-family:  DFKai-sb;
+    margin-bottom: -1px;
+}
+input[type="submit"] {
+    background-color: white;
+    height: 35px;
+    font-size: 20px;
+    font-family:  DFKai-sb;
+    border-radius: 10px;
+    float: right;
+    border: solid 2px #FF7B7B;
+}
+form {
+    background-color: white;
+}
+p {
+    font-family:  DFKai-sb;
+    font-size: 30px;
+    margin: auto;
+    margin-top: 20px;
+}
+table tr td {
+    font-size: 25px;
+}
+a {
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family:  DFKai-sb;
+}

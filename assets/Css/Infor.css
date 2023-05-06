@@ -1,0 +1,40 @@
+  /*字型大小*/
+  h2{
+    text-align: center;
+    font-family: STKaiti ;
+    font-size: 40px;
+    font-weight: bold;
+  }
+
+  h3{
+    margin-left: 50px;
+    text-align: center;
+    font-family: STKaiti ;
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  h4{
+    margin-left: 50px;
+    font-family: STKaiti ;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration:underline;
+  }
+
+  li{
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: STKaiti ;
+    font-size: 20px;
+  }
+
+table{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+td{
+	border-collapse: collapse;
+  border-bottom: black 2px dashed;
+}

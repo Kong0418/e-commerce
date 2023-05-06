@@ -1,0 +1,53 @@
+  /*字型大小*/
+  h2{
+    text-align: center;
+    font-family: STKaiti ;
+    font-size: 40px;
+    font-weight: bold;
+  }
+
+  h3{
+    text-align: center;
+    font-family: STKaiti ;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  p{
+    text-align: center;
+    font-family: STKaiti ;
+    font-size: 20px;
+  }
+
+  /*table*/
+  table{
+    text-align: center;
+    border-right: dotted black 3px;
+  }
+
+  td{
+    font-family: DFKai-sb ;
+    font-size: 20px;
+    border-left: dotted black 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  footer{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+
+  .pic{
+    width:270px; 
+    height:512px;
+    overflow:hidden;
+  }
+  .pic img{
+    transform:scale(1,1);
+    transition: all 1s ease-out;
+  }
+  .pic img:hover{
+    transform:scale(1.2,1.2);
+  }
